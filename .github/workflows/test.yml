@@ -14,8 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  # Build job
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
