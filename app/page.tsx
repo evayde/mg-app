@@ -1,5 +1,8 @@
 export default function Home() {
   return (
-    <main></main>
+    <>
+      <h1>Play online together</h1>
+      <main></main>
+    </>
   );
 }
